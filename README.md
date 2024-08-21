@@ -1,8 +1,16 @@
+<<<<<<< Updated upstream
 Netflix Clone
 
 A static clone of Netflix's homepage created with HTML and CSS. This project replicates the layout and visual style of Netflix’s user interface, demonstrating fundamental web design and development skills.
 
 <img src="image/netflix_macos_bigsur-icon_189917.png" alt="netflix-logo">
+=======
+ Netflix Clone
+
+A static clone of Netflix's homepage created with HTML and CSS. This project replicates the layout and visual style of Netflix’s user interface, demonstrating fundamental web design and development skills.
+
+![Netflix Logo](image/netflix_macos_bigsur-icon_189917.png)
+>>>>>>> Stashed changes
 
  Features
 
