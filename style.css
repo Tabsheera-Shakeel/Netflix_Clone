@@ -45,7 +45,7 @@ body{
     color: #e50914;
 }
 
-.btn-sing-in{
+.btn-sgin-in{
    background-color: #e50914;
    color: white ;
    padding-top: 8px;
@@ -114,6 +114,7 @@ body{
     padding: 20px 10px;
     font-size: 2em;
     border-radius: 4px;
+    color: white;
 }
 .btn-get-started{
     padding: 25px 35px;
@@ -128,7 +129,7 @@ body{
     white-space: nowrap;
 }
 .btn-get-started:hover{
-    background-color: #dd1620;
+    background-color: #dd1625;
 }
 .btn-get-started-1{
   white-space: nowrap;   
@@ -142,6 +143,9 @@ body{
   border-radius: 4px; 
   margin-left: 6px;   
 }   
+.btn-get-started-1:hover{
+    background-color: #dd1625;
+}
 
 .separation {
     height: 7px;
@@ -334,7 +338,7 @@ body{
   width: 30%;    
     }
     
- .btn-sing-in {
+ .btn-sgin-in {
    padding: 10px 20px;
    font-size: 1em;
    margin-top: 0;
@@ -399,7 +403,7 @@ body{
     margin-top: 10px;
     height: 20px;
     }
-    
+
     .features {
     padding: 20px 8px;
     font-size: 18px;
