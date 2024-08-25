@@ -10,7 +10,7 @@ This project is a clone of the Netflix homepage designed to showcase a variety o
 - **FAQ Section**: An accordion-style FAQ section for common questions.
 - **Footer**: Contains links to various Netflix-related resources and a language selection button.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e45342dc-501f-4f20-8117-f4b3c1a7ada3/deploy-status)](https://app.netlify.com/sites/nfxclone-bytabsheera2024/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e6571d10-3b21-4176-b18b-be25fd9cdce3/deploy-status)](https://app.netlify.com/sites/nfx-cloneby-tabsheera/deploys)
 
 ## Technologies Used
 
